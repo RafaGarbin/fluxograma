@@ -1,4 +1,7 @@
 body{ background-color: coral;
 color: brown;
 display: flex;
-justify-content: center;}
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;}
